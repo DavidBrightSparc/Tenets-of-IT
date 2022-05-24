@@ -3,31 +3,31 @@
 
 1.	Reboot, reinstall, replace.
 2.	Rebooting is a band aid. Figure out why you had to.
-3.	It's always DNS
+3.	It's always DNS.
 4.	When it’s not DNS, it’s MTU.
 5.	When it’s not MTU, it’s BGP.
 6.	When it’s not BGP, it’s LACP.
-7.	Under-promise, over-deliver
+7.	Under-promise, over-deliver.
 8.	Plan for the worst, hope for the best.
 9.	Always implement two-factor-authentication, no matter how loudly the users complain.
 10.	Have the user show you the problem, often it is the user doing something in an unusual way.
 11.	Fast. Cheap. Good. You may pick one, two if you're lucky.
 12.	Never stop learning.
-13.	The Six Ps: Proper Planning Prevents Piss Poor Performance
-14.	It's always an emergency, until it incurs an extra charge
+13.	The Six Ps: Proper Planning Prevents Piss Poor Performance.
+14.	It's always an emergency, until it incurs an extra charge.
 15.	Everyone has a test environment, not everyone is lucky enough to have a separate production environment.
 16.	If anyone can't find the documentation it's not documented, if it's not documented it doesn't exist.
-17.	If you think it's going to be a disaster, get it in writing and CYA
-18.	Poor planning on a users part, does not constitute an emergency on yours
-19.	Fridays are read-only (aka - no changes on a Friday)
+17.	If you think it's going to be a disaster, get it in writing and CYA.
+18.	Poor planning on a users part, does not constitute an emergency on yours.
+19.	Fridays are read-only. (aka - no changes on a Friday)
 20.	A backup isn't a backup until you've restored successfully from it.
-21.	Snapshots are not backups
+21.	Snapshots are not backups.
 22.	If a backup isn't off-site, it isn't a backup.
 23.	If it isn't in a ticket, it's not getting done.
 24.	Treat all users the same, regardless of their last name.
 25.	It's never a "5 minute thing".
 26.	Security and ease of use.. rarely walk hand in hand.
-27.	Not my circus, not my monkeys.
+27.	*"Not my circus, not my monkeys."*
 28.	Everybody lies.
 29.	Never ask a user a question that you can easily confirm yourself.
 30.	The fastest path to resolution first requires removing the user from the problem. (aka isolate layer 8)
