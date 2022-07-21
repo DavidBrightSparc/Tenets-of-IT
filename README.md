@@ -1,12 +1,12 @@
 # Tenets of IT
 *It is a good reminder to not overthink some problems. These tenets have been created over decades as a way of reminding ourselves of the things sometimes overlooked.*
 
-1.	Reboot, reinstall, replace.
-2.	Rebooting is a band aid. Figure out why you had to.
-3.	It's always DNS.
-4.	When it’s not DNS, it’s MTU.
-5.	When it’s not MTU, it’s BGP.
-6.	When it’s not BGP, it’s LACP.
+1.	It's always DNS.
+2.	When it’s not DNS, it’s MTU.
+3.	When it’s not MTU, it’s BGP.
+4.	When it’s not BGP, it’s LACP.
+5.	Reboot, reinstall, replace.
+6.	Rebooting is a band aid. Figure out why you had to.
 7.	Under-promise, over-deliver.
 8.	Plan for the worst, hope for the best.
 9.	Always implement two-factor-authentication, no matter how loudly the users complain.
