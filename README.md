@@ -56,3 +56,5 @@
 53.	The longer everything goes according to plan, the bigger the impending disaster.
 54.	Sales Engineers are a gift from heaven, they prevent salespeople from over-promising.
 55.	Printers have moods, most of the time that mood is 'Fuck you'.
+56. The last 10% of the job takes 90% of the time. And the rest of the job takes the other 90%. (credit peterjay733)
+57. If you have a primary system that is malfunctioning, threaten the system by starting to set up the backup system. Usually, by the time the backup is 90% ready....the primary will magically start working again. (credit MaeveKyalwann)
